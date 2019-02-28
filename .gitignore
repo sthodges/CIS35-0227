@@ -39,3 +39,5 @@ sysinfo.txt
 # ADDED STUFF
 #for macOS
 .DS_Store
+#for emacs
+*~

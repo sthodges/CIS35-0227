@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class WanderingAI : MonoBehaviour {
 	[SerializeField] private GameObject fireballPrefab;
 	private GameObject _fireball;
